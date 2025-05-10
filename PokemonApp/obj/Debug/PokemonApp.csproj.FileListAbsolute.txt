@@ -1,0 +1,13 @@
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\bin\Debug\PokemonApp.exe.config
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\bin\Debug\PokemonApp.exe
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\bin\Debug\PokemonApp.pdb
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.AssemblyReference.cache
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Form1.resources
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Properties.Resources.resources
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.GenerateResource.cache
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.CoreCompileInputs.cache
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.Up2Date
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.exe
+C:\Users\Cooperativa Moyutan\Desktop\TareaApi poke\PokemonApp\PokemonApp\obj\Debug\PokemonApp.pdb
